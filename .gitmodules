@@ -1,3 +1,0 @@
-[submodule "android/app/src/main/jni/libopencl-stub"]
-	path = android/app/src/main/jni/libopencl-stub
-	url = https://github.com/krrishnarraj/libopencl-stub

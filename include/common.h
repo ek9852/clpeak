@@ -1,7 +1,7 @@
 #ifndef COMMON_H
 #define COMMON_H
 
-#include <CL/cl.hpp>
+#include "CL/cl.hpp"
 #if defined(__APPLE__) || defined(__MACOSX) || defined(__FreeBSD__)
 #include <sys/types.h>
 #endif
